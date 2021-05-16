@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  song: MyString
+  artist: MyString
+  chord1st: MyString
+  chord2nd: MyString
+  chord3rd: MyString
+  chord4th: MyString
+
+two:
+  song: MyString
+  artist: MyString
+  chord1st: MyString
+  chord2nd: MyString
+  chord3rd: MyString
+  chord4th: MyString
